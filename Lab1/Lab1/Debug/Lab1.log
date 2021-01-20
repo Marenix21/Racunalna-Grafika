@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+C:\Users\Marin\source\repos\Lab1\Lab1\lab1.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marin\source\repos\Lab1\Lab1\lab1.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> C:\Users\Marin\source\repos\Lab1\Debug\Lab1.exe
